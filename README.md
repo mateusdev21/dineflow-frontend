@@ -1,8 +1,6 @@
-# React + Vite
+# 🍽️ DineFlow Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
+**DineFlow Frontend** is a modern and responsive Point of Sale (POS) web application interface for restaurants, cafés, and food stalls. Built with **Vite**, **React**, and **Tailwind CSS**, this frontend app offers fast performance and a clean, intuitive UI to manage orders, menus, and tables efficiently.
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
