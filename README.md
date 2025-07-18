@@ -42,7 +42,7 @@ npm run dev
 Then open http://localhost:5173 in your browser.
 
 ## 🧾 Project Structure
-
+```
 src/
 ├── assets/         # Static assets (images, icons)
 ├── components/     # Reusable UI components
@@ -54,3 +54,4 @@ src/
 ├── index.css       # Global CSS
 ├── App.jsx         # App entry with router
 └── main.jsx        # Vite main entry point
+```
