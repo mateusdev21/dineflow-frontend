@@ -26,13 +26,14 @@
 
 ## 📦 Getting Started
 
+```bash
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/mateusdev21/dineflow-frontend.git
 cd dineflow-frontend
 
 ### 2. Install Dependencies
 
-```bash
 npm install
+
+3. Start Development Server
